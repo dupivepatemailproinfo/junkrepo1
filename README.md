@@ -1,2 +1,2 @@
 # junkrepo1
-for leaerning jenkins
+for learning jenkins
